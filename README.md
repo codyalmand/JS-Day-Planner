@@ -1,9 +1,10 @@
 # JS-Day-Planner
 <br>
-#User Story
+# User Story
 <p>Using Javascript, HTML, and CSS.
 <p>As an employee with a busy schedule, I want to add important events to a daily planner so I can manage my time effectively.<p>
-#Acceptance Criteria
+  
+# Acceptance Criteria
 <p>
 1. When using a daily planner to create a schedule, when I open the planner on the current day, it is displayed at the top of the calendar.
 <p>
@@ -17,4 +18,5 @@
 <p>
 6. When I refresh the page, the saved events persist.
 <p>
-#Deployed Site URL: https://codyalmand.github.io/JS-Day-Planner/
+  
+# Deployed Site URL: https://codyalmand.github.io/JS-Day-Planner/
