@@ -1,5 +1,6 @@
 # JS-Day-Planner
 <br>
+
 # User Story
 <p>Using Javascript, HTML, and CSS.
 <p>As an employee with a busy schedule, I want to add important events to a daily planner so I can manage my time effectively.<p>
