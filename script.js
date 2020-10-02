@@ -17,7 +17,7 @@ $(document).ready(function(){
         if(currentHour > hourInt) {
     $(this).children(".description").addClass("past")
     }
-        else if (current < hourInt) {
+        else if (currentHour < hourInt) {
     $(this).children(".description").addClass("future")
     $(this).children(".description").removeClass("past")
     }
